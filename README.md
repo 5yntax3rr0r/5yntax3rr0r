@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5yntax3rr0r
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning ethical hacking
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 email: mail.5yntax3rr0r@gmail.com
